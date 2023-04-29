@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+https://github.com/MetehanSimsek/Calculator/blob/main/Calculator/Calculator/Calculator.c
 
 int main()
 {
@@ -17,13 +17,13 @@ int main()
         printf("Toplama isleminin sonucu : %d", sayi1 + sayi2);
         break;
     case 2:
-        printf("Cýkarma isleminin sonucu : %d", sayi1 - sayi2);
+        printf("CÄ±karma isleminin sonucu : %d", sayi1 - sayi2);
         break;
     case 3:
         printf("Carpma isleminin sonucu : %d", sayi1 * sayi2);
         break;
     case 4:
-        printf("Bolme isleminin sonucu : %d", sayi1 * sayi2);
+        printf("Bolme isleminin sonucu : %d", sayi1 / sayi2);
         break;
     default:
         printf("Lutfen gecerli bir sayi giriniz..");
